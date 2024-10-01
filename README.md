@@ -1,6 +1,6 @@
 # 👋 Welcome to Varun Shah's GitHub Profile
 
-![Varun Shah GitHub Banner](https://your-image-link.com/banner.png)
+<!--![Varun Shah GitHub Banner](https://your-image-link.com/banner.png)-->
 
 ## 🚀 About Me
 I am **Varun Shah**, an enthusiastic **Web Developer** with a passion for building dynamic and responsive websites. I love learning new technologies and pushing the boundaries of creativity in every project I work on.
