@@ -45,10 +45,10 @@ I am **Varun Shah**, an enthusiastic **Web Developer** with a passion for buildi
 ---
 
 ## 📫 Let's Connect:
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/varun-shah-6673822b5/)
+- 🌐 [Portfolio](https://varun27-portfolio.netlify.app/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunS27&show_icons=true&theme=radical)
 
 ---
 
