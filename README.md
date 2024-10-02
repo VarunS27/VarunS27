@@ -48,7 +48,24 @@ I am **Varun Shah**, an enthusiastic **Web Developer** with a passion for buildi
 - 💼 [LinkedIn](https://www.linkedin.com/in/varun-shah-6673822b5/)
 - 🌐 [Portfolio](https://varun27-portfolio.netlify.app/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunS27&show_icons=true&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunS27&show_icons=true&theme=radical)-->
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/varun-shah-6673822b5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/varun_shah27/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" alt="Coding animation" width="200"/>
+</p>
+
+<p align="center">
+  <strong>&copy; 2024 Varun Shah. All Rights Reserved.</strong>
+</p>
 
 ---
 
