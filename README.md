@@ -24,7 +24,7 @@ I am **Varun Shah**, an enthusiastic **Web Developer** with a passion for buildi
 ---
 
 ## 🌟 Projects I'm Working On:
-- 📲 **Women Safety App**: Empowering women with safety tools.
+- 📲 **Car Price Prediction app**:Predicting price for the used cars .
 - 📚 **RENTO**: A rental app for sharing items you own but don’t use, like books, on a per-hour or per-day basis.
 - 🖥️ **Creative Landing Pages**: Crafting eye-catching and responsive landing pages.
 
