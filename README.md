@@ -40,7 +40,7 @@ I am **Varun Shah**, **Student At KJ Somaiya College Of Engineering** an enthusi
 
 ## 🛠️ Tools I Use:
 - **Frontend**: HTML, CSS, Tailwind, Bootstrap, React, JavaScript
-- **Backend**: PHP, MySQL
+- **Backend**: Node, MySQL, MongoDB 
 - **Languages**: Java, Python
 
 ---
