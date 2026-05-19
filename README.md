@@ -1,73 +1,133 @@
-# 👋 Welcome to Varun Shah's GitHub Profile
+<div align="center">
 
-<!--![Varun Shah GitHub Banner](https://your-image-link.com/banner.png)-->
+```
+██╗   ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗    ███████╗██╗  ██╗ █████╗ ██╗  ██╗
+██║   ██║██╔══██╗██╔══██╗██║   ██║████╗  ██║    ██╔════╝██║  ██║██╔══██╗██║  ██║
+██║   ██║███████║██████╔╝██║   ██║██╔██╗ ██║    ███████╗███████║███████║███████║
+╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██║╚██╗██║    ╚════██║██╔══██║██╔══██║██╔══██║
+ ╚████╔╝ ██║  ██║██║  ██║╚██████╔╝██║ ╚████║    ███████║██║  ██║██║  ██║██║  ██║
+  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-## 🚀 About Me
-I am **Varun Shah**, **Student At KJ Somaiya College Of Engineering** an enthusiastic **Web Developer** with a passion for building dynamic and responsive websites. I love learning new technologies and pushing the boundaries of creativity in every project I work on.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Varun+Shah+%F0%9F%91%8B;Full-Stack+Developer+%7C+Builder+%7C+Founder;B.Tech+IT+%40+K.J.+Somaiya+%F0%9F%8F%AB;Turning+ideas+into+products+since+day+one" alt="Typing SVG" />
 
----
+<br/>
 
-## 💻 My Skill Set:
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-44883e?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-shah-6673822b5/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://varun27-portfolio.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/varun_shah27/)
+[![Profile Views](https://komarev.com/ghpvc/?username=VarunS27&style=for-the-badge&color=00FFB2&label=PROFILE+VIEWS)](https://github.com/VarunS27)
 
+</div>
 
 ---
 
-## 🌟 Projects I'm Working On:
-- 📲 **Car Price Prediction app**:Predicting price for the used cars .
-- 📚 **RENTO**: A rental app for sharing items you own but don’t use, like books, on a per-hour or per-day basis.
-- 🖥️ **Creative Landing Pages**: Crafting eye-catching and responsive landing pages.
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+## `> whoami`
+
+```yaml
+name        : Varun Shah
+role        : [ "Student", "Full-Stack Dev", "Co-Founder @ Vardhman Tech" ]
+college     : K.J. Somaiya College of Engineering
+degree      : B.Tech in Information Technology (Sem VI)
+location    : Mumbai, India 🇮🇳
+status      : Building things that actually matter
+philosophy  : "Ship fast. Learn faster. Break nothing (ideally)."
+```
+
+<br clear="right"/>
 
 ---
 
-## 🎯 Goals
-- To constantly improve my web development skills.
-- To solve real-world problems through code.
-- To collaborate on innovative and impactful projects.
+## `> ls skills/`
+
+<div align="center">
+
+### ⚡ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+### 🔧 Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-44883e?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### 🛠️ Tools & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 🛠️ Tools I Use:
-- **Frontend**: HTML, CSS, Tailwind, Bootstrap, React, JavaScript
-- **Backend**: Node, MySQL, MongoDB 
-- **Languages**: Java, Python
+## `> cat projects.json`
+
+```json
+{
+  "active_projects": [
+    {
+      "name": "AnomilityGuard",
+      "desc": "ML-powered Attack detecter on medical devices, capturing them on medpot a same simulated enviroment",
+      "stack": ["Python", "Scikit-learn", "React"],
+      "status": "⚙️  In Development"
+    }
+  ]
+}
+```
 
 ---
 
-## 📫 Let's Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/varun-shah-6673822b5/)
-- 🌐 [Portfolio](https://varun27-portfolio.netlify.app/)
+## `> git log --oneline --pretty`
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunS27&show_icons=true&theme=radical)-->
+<div align="center">
 
-<h2 align="center">🌐 Let's Connect</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=VarunS27&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2&text_color=FFFFFF&border_radius=10" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunS27&theme=radical&hide_border=true&background=0D1117&ring=00FFB2&fire=FF6B6B&currStreakLabel=00FFB2&border_radius=10" width="48%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/varun-shah-6673822b5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/varun_shah27/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<br/><br/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunS27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=FFFFFF&border_radius=10" width="40%"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" alt="Coding animation" width="200"/>
-</p>
-
-<p align="center">
-  <strong>&copy; 2024 Varun Shah. All Rights Reserved.</strong>
-</p>
+</div>
 
 ---
 
-🔗 **Explore my repositories, and feel free to collaborate or reach out!** ✨
+## `> cat goals.md`
+
+```diff
++ Master system design & scalable architecture
++ Contribute to open source projects
++ Go deep into cybersecurity
++ Solve real problems, not just build portfolios
+- Stop overthinking. Start shipping.
+```
+
+---
+
+## `> ping me`
+
+<div align="center">
+
+*I'm always down to collaborate, brainstorm, or just talk tech.*
+
+```
+📬  varun27-portfolio.netlify.app
+💼  https://www.linkedin.com/in/varun-shah27/
+📸  @varun_shah27
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20something%20great&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%"/>
+
+</div>
