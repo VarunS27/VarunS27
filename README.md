@@ -80,6 +80,12 @@ philosophy  : "Ship fast. Learn faster. Break nothing (ideally)."
       "desc": "ML-powered Attack detecter on medical devices, capturing them on medpot a same simulated enviroment",
       "stack": ["Python", "Scikit-learn", "React"],
       "status": "⚙️  In Development"
+    },
+       {
+      "name": "AI Voice Receptionist",
+      "desc": "AI powered reception assistent who helps Doctors, realtors and many businesses to automate their work",
+      "stack": ["Node", "Express", "React", "MongoDB"],
+      "status": "⚙️  In Development"
     }
   ]
 }
