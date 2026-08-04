@@ -82,10 +82,10 @@ philosophy  : "Ship fast. Learn faster. Break nothing (ideally)."
       "status": "⚙️  In Development"
     },
        {
-      "name": "AI Voice Receptionist",
-      "desc": "AI powered reception assistent who helps Doctors, realtors and many businesses to automate their work",
-      "stack": ["Node", "Express", "React", "MongoDB"],
-      "status": "⚙️  In Development"
+      "name": "AA Seceret traffic system",
+      "desc": "AI powered Seceret traffic system which could be used globally or in 2 countries",
+      "stack": ["Python", "React", "MongoDB"],
+      "status": "⚙️  In R&D"
     }
   ]
 }
