@@ -82,7 +82,7 @@ philosophy  : "Ship fast. Learn faster. Break nothing (ideally)."
       "status": "⚙️  In Development"
     },
        {
-      "name": "AA Seceret traffic system",
+      "name": "A Seceret traffic system",
       "desc": "AI powered Seceret traffic system which could be used globally or in 2 countries",
       "stack": ["Python", "React", "MongoDB"],
       "status": "⚙️  In R&D"
